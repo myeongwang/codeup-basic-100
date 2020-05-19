@@ -30,3 +30,7 @@ or higher you should be fine.
 1. `cd this/project/directory`
 2. `ruby factory.rb` or `ruby factory_multi3.rb`
 ## Running the Tests
+
+git add READM.md
+git commit -m “Updated the Readme to provide information”
+git push
